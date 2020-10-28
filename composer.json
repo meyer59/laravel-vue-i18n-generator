@@ -1,9 +1,9 @@
 {
-    "name": "martinlindhe/laravel-vue-i18n-generator",
+    "name": "meyer59/laravel-vue-i18n-generator",
     "license": "MIT",
     "description": "Generates a vue-i18n compatible include file from your Laravel translations.",
     "keywords": ["laravel","vue-i18n"],
-    "homepage": "http://github.com/martinlindhe/laravel-vue-i18n-generator",
+    "homepage": "https://github.com/meyer59/laravel-vue-i18n-generator",
     "authors": [
         {
             "name": "Martin Lindhe",
